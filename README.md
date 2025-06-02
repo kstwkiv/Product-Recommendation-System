@@ -34,6 +34,6 @@ Converted original Excel file to CSV and imported into SQL
 
 # Conclusion
 
-This project shows how far SQL alone can go in real-world data analysis. With nothing more than joins, filters, and aggregations, we built a fully functional, data-driven recommendation system.
-
+This project shows how far SQL alone can go in real-world data analysis. 
+With nothing more than joins, filters, and aggregations, we built a fully functional, data-driven recommendation system.
 
