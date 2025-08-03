@@ -4,7 +4,7 @@ where CustomerID is not null and Description is not null;
 select * from onlineretail
 where Quantity>0;
 
-/*top 10 most purchased products*/
+/*Top 10 most purchased products*/
 
 select Description, sum(Quantity) as TotalSold
 from onlineretail
